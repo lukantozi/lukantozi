@@ -1,16 +1,24 @@
-## Hi there 👋
+# Luka
 
-<!--
-**lukantozi/lukantozi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```text
+$ whoami
+C / Linux / systems programming
+```
 
-Here are some ideas to get you started:
+Building small tools to understand how programs interact with the OS.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Stack:** C · Python · Bash · Linux · Git · Docker · SQL
+
+## Selected work
+
+| Project | What it is |
+|---|---|
+| [systems-lab](https://github.com/lukantozi/systems-lab) | Unix-style tools and systems exercises in C |
+| [pimone](https://github.com/lukantozi/pimone) | Linux system monitor reading CPU, memory, disk, and process data from `/proc` |
+| [lessonflow-api](https://github.com/lukantozi/lessonflow-api) | Interactive Python CLI for generating English lesson packs |
+
+## Learning
+
+```text
+CS:APP · The Algorithm Design Manual · OSTEP
+```
